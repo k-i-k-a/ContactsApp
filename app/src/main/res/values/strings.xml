@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="name1">Auntie</string>
+    <string name="name2">Brother</string>
+    <string name="name3">Daughter</string>
+    <string name="name4">Friend 1</string>
+    <string name="name5">Friend 2</string>
+    <string name="name6">Grandfather</string>
+    <string name="name7">Granny</string>
+    <string name="name8">Neighbour</string>
+    <string name="name9">Sister</string>
+    <string name="name10">Son</string>
+    <string name="name11">Uncle</string>
+    <string name="phone1">+201012345678</string>
+    <string name="phone2">+201123456789</string>
+    <string name="phone3">+201234567890</string>
+    <string name="phone4">+201345678901</string>
+    <string name="phone5">+201456789012</string>
+    <string name="phone6">+201567890123</string>
+    <string name="phone7">+201678901234</string>
+    <string name="phone8">+201789012345</string>
+    <string name="phone9">+201890123456</string>
+    <string name="phone10">+201890123457</string>
+    <string name="phone11">+201890123458</string>
+</resources>
